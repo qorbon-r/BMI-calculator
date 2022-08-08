@@ -1,0 +1,15 @@
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\bin\Debug\net6.0\Calculator(BMI).exe
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\bin\Debug\net6.0\Calculator(BMI).deps.json
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\bin\Debug\net6.0\Calculator(BMI).runtimeconfig.json
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\bin\Debug\net6.0\Calculator(BMI).dll
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\bin\Debug\net6.0\Calculator(BMI).pdb
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\obj\Debug\net6.0\Calculator(BMI).csproj.AssemblyReference.cache
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\obj\Debug\net6.0\Calculator(BMI).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\obj\Debug\net6.0\Calculator(BMI).AssemblyInfoInputs.cache
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\obj\Debug\net6.0\Calculator(BMI).AssemblyInfo.cs
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\obj\Debug\net6.0\Calculator(BMI).csproj.CoreCompileInputs.cache
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\obj\Debug\net6.0\Calculator(BMI).dll
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\obj\Debug\net6.0\refint\Calculator(BMI).dll
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\obj\Debug\net6.0\Calculator(BMI).pdb
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\obj\Debug\net6.0\Calculator(BMI).genruntimeconfig.cache
+C:\Users\qorba\Desktop\BMI_Calculator\Calculator(BMI)\obj\Debug\net6.0\ref\Calculator(BMI).dll
